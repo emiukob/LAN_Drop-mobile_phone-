@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Transfers storage (Ignore downloaded/uploaded files except .gitkeep)
+transfers/*
+!transfers/.gitkeep
+
+# Environments & OS
+.venv/
+venv/
+ENV/
+.DS_Store
+Thumbs.db
