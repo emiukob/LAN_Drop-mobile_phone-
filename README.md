@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="LAN Drop Logo" width="160" />
+</p>
+
 # ⚡ LAN Drop
 
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
