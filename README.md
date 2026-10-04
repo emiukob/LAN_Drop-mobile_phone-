@@ -44,8 +44,8 @@ It will install dependencies and start the server automatically.
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/emiukob/LAN_Drop.git
-cd LAN_Drop
+git clone https://github.com/emiukob/LAN_Drop-mobile_phone-.git
+cd LAN_Drop-mobile_phone-
 
 # 2. Install dependencies
 pip install -r requirements.txt
